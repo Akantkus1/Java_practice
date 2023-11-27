@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.cg.string&apos; to &apos;com.cg.stringprg&apos;&#x0D;&#x0A;- Original project: &apos;Demo&apos;&#x0D;&#x0A;- Original element: &apos;Demo/src/com.cg.string&apos;&#x0D;&#x0A;- Renamed element: &apos;Demo/src/com.cg.stringprg&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.cg.string&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.cg.string" name="com.cg.stringprg" qualified="false" references="true" stamp="1697604137722" textual="false" version="1.0"/>
+</session>

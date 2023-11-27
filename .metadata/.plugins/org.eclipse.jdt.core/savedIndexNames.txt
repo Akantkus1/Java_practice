@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\AKANTKUS\Desktop\Practice Project\.metadata\.plugins\org.eclipse.jdt.core
+3520250537.index
+1828026965.index
+1865797976.index
